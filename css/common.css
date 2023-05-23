@@ -14,11 +14,11 @@ body {
 }
 
 input {
-  padding: 8px;
-  font: inherit;
+padding: 8px;
+font: inherit;
 }
 
 button {
-  padding: 8px 12px;
-  cursor: pointer;
+padding: 8px 12px;
+cursor: pointer;
 }
